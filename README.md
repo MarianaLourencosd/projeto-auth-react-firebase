@@ -1,0 +1,1 @@
+# projeto-auth-react-firebase
